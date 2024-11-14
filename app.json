@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Kenswedcanteen",
+    "slug": "Kenswedcanteen",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ikon.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/ikon.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#000"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "newArchEnabled": true,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/ikon.jpg",
+        "backgroundColor": "#000"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
